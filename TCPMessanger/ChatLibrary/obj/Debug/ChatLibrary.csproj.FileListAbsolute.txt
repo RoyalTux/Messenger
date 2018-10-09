@@ -1,0 +1,6 @@
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.pdb
+C:\Users\Dmitry\Desktop\TCPMessanger\ChatLibrary\obj\Debug\ChatLibrary.csprojAssemblyReference.cache
